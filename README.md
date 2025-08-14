@@ -4,9 +4,7 @@ A desktop application built using **Python Tkinter** that allows users to book t
 
 ---
 
- ## 📸 Screenshot
-![App Screenshot](https://drive.google.com/file/d/1fgcCf4rySipgftPqXZxfsZnQjDZ4qX8k/view?usp=sharing)
- 
+  ![Smart Calculator UI](https://drive.google.com/uc?export=view&id=1JP5OVK_4YP_GdScjuVUwqJxeT_ZBZg-b)
 
 ## ✨ Features
 - **User-Friendly Form** for travel bookings
