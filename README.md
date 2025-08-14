@@ -4,7 +4,7 @@ A desktop application built using **Python Tkinter** that allows users to book t
 
 ---
 
-## 📸 Screenshot
+ ## 📸 Screenshot
 ![App Screenshot](https://drive.google.com/file/d/1fgcCf4rySipgftPqXZxfsZnQjDZ4qX8k/view?usp=sharing)
  
 
