@@ -3,9 +3,8 @@ ravel Agency - Tkinter Booking App
 A desktop application built using **Python Tkinter** that allows users to book travel services, store booking data in **MySQL**, and generate **UPI QR codes** for payment.
 
 ---
-
-## 📸 Screenshot
-![App Screenshot](https://drive.google.com/uc?export=view&id=1fgcCf4rySipgftPqXZxfsZnQjDZ4qX8k)
+ ## 📸 Screenshot
+![App Screenshot](App.png)
 
 
 ## ✨ Features
